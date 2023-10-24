@@ -91,7 +91,6 @@ class CBPIntercomGetConversationActivity extends CBPActivity
      * Extract body from conversation
      * 
      * @param array $conversationParts
-     * 
      * @return string
      */
     protected function extractConversationBody(array $conversationParts)
