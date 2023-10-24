@@ -1,0 +1,6 @@
+<?
+$MESS["INTERCOM_GC_NAME"] = "Get conversation";
+$MESS["INTERCOM_GC_DESCRIPTION"] = "Get conversation";
+$MESS["INTERCOM_GC_RETURN_FIELD_CONVERSATION_BODY"] = "Conversation body";
+$MESS["INTERCOM_GC_RETURN_FIELD_TICKET_ID"] = "Ticket id";
+$MESS["INTERCOM_GC_RETURN_FIELD_TICKET_STATE"] = "Ticket state";
